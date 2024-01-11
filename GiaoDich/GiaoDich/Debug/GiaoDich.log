@@ -1,0 +1,5 @@
+﻿  GiaoDich.cpp
+C:\Users\DELL\OneDrive\Máy tính\CTDL-GT\DoAn_BlockChain_MerkleTree\GiaoDich\GiaoDich\GiaoDich.cpp(200,13): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\DELL\OneDrive\Máy tính\CTDL-GT\DoAn_BlockChain_MerkleTree\GiaoDich\GiaoDich\GiaoDich.cpp(247,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\DELL\OneDrive\Máy tính\CTDL-GT\DoAn_BlockChain_MerkleTree\GiaoDich\GiaoDich\GiaoDich.cpp(422,20): warning C4018: '<': signed/unsigned mismatch
+  GiaoDich.vcxproj -> C:\Users\DELL\OneDrive\Máy tính\CTDL-GT\DoAn_BlockChain_MerkleTree\GiaoDich\Debug\GiaoDich.exe
