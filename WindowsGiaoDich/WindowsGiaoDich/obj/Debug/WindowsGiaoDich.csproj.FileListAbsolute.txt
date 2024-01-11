@@ -1,0 +1,14 @@
+C:\Users\DELL\OneDrive\Máy tính\CTDL-GT\DoAn_BlockChain_MerkleTree\WindowsGiaoDich\WindowsGiaoDich\bin\Debug\WindowsGiaoDich.exe.config
+C:\Users\DELL\OneDrive\Máy tính\CTDL-GT\DoAn_BlockChain_MerkleTree\WindowsGiaoDich\WindowsGiaoDich\bin\Debug\WindowsGiaoDich.exe
+C:\Users\DELL\OneDrive\Máy tính\CTDL-GT\DoAn_BlockChain_MerkleTree\WindowsGiaoDich\WindowsGiaoDich\bin\Debug\WindowsGiaoDich.pdb
+C:\Users\DELL\OneDrive\Máy tính\CTDL-GT\DoAn_BlockChain_MerkleTree\WindowsGiaoDich\WindowsGiaoDich\obj\Debug\WindowsGiaoDich.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Máy tính\CTDL-GT\DoAn_BlockChain_MerkleTree\WindowsGiaoDich\WindowsGiaoDich\obj\Debug\WindowsGiaoDich.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\OneDrive\Máy tính\CTDL-GT\DoAn_BlockChain_MerkleTree\WindowsGiaoDich\WindowsGiaoDich\obj\Debug\WindowsGiaoDich.Properties.Resources.resources
+C:\Users\DELL\OneDrive\Máy tính\CTDL-GT\DoAn_BlockChain_MerkleTree\WindowsGiaoDich\WindowsGiaoDich\obj\Debug\WindowsGiaoDich.csproj.GenerateResource.cache
+C:\Users\DELL\OneDrive\Máy tính\CTDL-GT\DoAn_BlockChain_MerkleTree\WindowsGiaoDich\WindowsGiaoDich\obj\Debug\WindowsGiaoDich.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Máy tính\CTDL-GT\DoAn_BlockChain_MerkleTree\WindowsGiaoDich\WindowsGiaoDich\obj\Debug\WindowsGiaoDich.exe
+C:\Users\DELL\OneDrive\Máy tính\CTDL-GT\DoAn_BlockChain_MerkleTree\WindowsGiaoDich\WindowsGiaoDich\obj\Debug\WindowsGiaoDich.pdb
+C:\Users\DELL\OneDrive\Máy tính\CTDL-GT\DoAn_BlockChain_MerkleTree\WindowsGiaoDich\WindowsGiaoDich\obj\Debug\WindowsGiaoDich.XacThucGD.resources
+C:\Users\DELL\OneDrive\Máy tính\CTDL-GT\DoAn_BlockChain_MerkleTree\WindowsGiaoDich\WindowsGiaoDich\obj\Debug\WindowsGiaoDich.TimKiemID.resources
+C:\Users\DELL\OneDrive\Máy tính\CTDL-GT\DoAn_BlockChain_MerkleTree\WindowsGiaoDich\WindowsGiaoDich\obj\Debug\WindowsGiaoDich.XuatTatCaGD.resources
+C:\Users\DELL\OneDrive\Máy tính\CTDL-GT\DoAn_BlockChain_MerkleTree\WindowsGiaoDich\WindowsGiaoDich\obj\Debug\WindowsGiaoDich.Main.resources
